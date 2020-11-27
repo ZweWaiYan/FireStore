@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "519998835524",
+    "firebase_url": "https://userinfo-3fbe1.firebaseio.com",
+    "project_id": "userinfo-3fbe1",
+    "storage_bucket": "userinfo-3fbe1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519998835524:android:311525af781159fa436511",
+        "android_client_info": {
+          "package_name": "com.letuse.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519998835524-nm3rijktbt68uho22n8uq4hc04p7jvfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTZwh3ul3R_X9jk6I9S7eFpyop3_hRD4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519998835524-nm3rijktbt68uho22n8uq4hc04p7jvfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
